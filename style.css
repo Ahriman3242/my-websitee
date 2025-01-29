@@ -1,0 +1,20 @@
+body{
+    background-image: url(asdwad/gachi.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    color: azure;
+    font-size: 30px;
+}
+
+.img{
+    width: 100px;
+    height: 100px
+}
+
+.asd{
+    color: rgb(253, 0, 148);
+    font-size: 50px;
+}
